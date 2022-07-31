@@ -1,4 +1,3 @@
-import 'package:currency_converter/components/convert.dart';
 import 'package:currency_converter/components/convert_tab.dart';
 import 'package:currency_converter/functions/fetchrates.dart';
 import 'package:currency_converter/models/ratesmodel.dart';

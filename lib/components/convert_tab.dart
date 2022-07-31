@@ -23,9 +23,20 @@ class ConvertTab extends StatefulWidget {
 class _ConvertTabState extends State<ConvertTab> {
   TextEditingController amountController = TextEditingController();
   var items = [
-    'USD',
-    'INR',
+    'AED',
+    'AFN',
+    'AUD',
+    'BHD',
     'EUR',
+    'INR',
+    'LKR',
+    'OMR',
+    'PKR',
+    'QAR',
+    'RUB',
+    'SAR',
+    'SGD',
+    'USD',
   ];
   String dropdownValue1 = 'INR';
   String dropdownValue2 = 'USD';
