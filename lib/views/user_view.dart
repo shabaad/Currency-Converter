@@ -34,7 +34,7 @@ class _UserPageState extends State<UserPage> {
               Color(0xFF253755),
             ],
           )),
-          height: 567,
+          height: 568,
         ),
         Align(
           alignment: Alignment.bottomCenter,
