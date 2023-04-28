@@ -50,7 +50,7 @@ class _UserPageState extends State<UserPage> {
                     'Data Submitter',
                     style: TextStyle(
                         color: Colors.white,
-                        fontSize: 24,
+                        fontSize: 25,
                         fontWeight: FontWeight.w600),
                   ),
                   const SizedBox(
