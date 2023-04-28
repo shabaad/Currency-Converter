@@ -63,7 +63,7 @@ class _UserPageState extends State<UserPage> {
                       boxShadow: [
                         BoxShadow(
                           color: Colors.grey.shade600,
-                          spreadRadius: 1,
+                          spreadRadius: 2,
                           blurRadius: 10,
                           offset: const Offset(0, 5),
                         )
