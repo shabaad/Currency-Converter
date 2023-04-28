@@ -108,7 +108,7 @@ class _UserPageState extends State<UserPage> {
                             child: TextFormField(
                                 validator: (email) => email != null &&
                                         !EmailValidator.validate(email)
-                                    ? 'Enter valid email'
+                                    ? 'Please enter valid email'
                                     : null,
                                 controller: emailController,
                                 decoration: InputDecoration(
