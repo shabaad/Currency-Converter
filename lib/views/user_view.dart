@@ -54,7 +54,7 @@ class _UserPageState extends State<UserPage> {
                         fontWeight: FontWeight.w600),
                   ),
                   const SizedBox(
-                    height: 20,
+                    height: 21,
                   ),
                   Container(
                     height: 256,
